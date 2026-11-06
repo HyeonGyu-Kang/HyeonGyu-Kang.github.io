@@ -1,0 +1,23 @@
+cv:
+  name: Hyeongyu Kang
+  label: Graduate Student
+  email: khg2000v@kaist.ac.kr
+  location: Daejeon, South Korea
+  image: ""
+  summary: >
+    My research focuses on aligning diffusion and flow-based generative models
+    with reinforcement learning and reward-guided optimization.
+
+  social_networks:
+    - network: GitHub
+      username: HyeonGyu-Kang
+
+  sections:
+    Education:
+      - institution: KAIST
+        location: Daejeon, South Korea
+        url: https://www.kaist.ac.kr/
+        area: TODO
+        degree: TODO
+        start_date: TODO
+        end_date: present
