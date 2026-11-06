@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Student, KAIST
+subtitle: M.S. Student, Graduate School of Data Science, KAIST
 
 profile:
   align: right
@@ -22,8 +22,6 @@ latest_posts:
   enabled: false
 ---
 
-I am a graduate student at KAIST, advised by Prof. Jinkyoo Park in the [System Intelligence Lab](https://silab.kaist.ac.kr/).
+I am an M.S. student in the Graduate School of Data Science at KAIST, advised by Prof. Jinkyoo Park in the [System Intelligence Lab](https://silab.kaist.ac.kr/). I received my B.S. in Statistics from Korea University.
 
-My research focuses on aligning diffusion and flow-based generative models with reinforcement learning and reward-guided optimization.
-
-<!-- TODO: replace the two paragraphs above with your own bio, and put your photo at assets/img/prof_pic.jpg -->
+My research interests lie at the intersection of reinforcement learning and generative models. I currently focus on aligning diffusion and flow-based generative models with reward signals, through RL fine-tuning and reward-guided sampling, and on applying these ideas to sequential decision-making and robot learning.

@@ -1,6 +1,6 @@
 cv:
   name: Hyeongyu Kang
-  label: Graduate Student
+  label: M.S. Student
   email: khg2000v@kaist.ac.kr
   location: Daejeon, South Korea
   image: ""
@@ -16,8 +16,15 @@ cv:
     Education:
       - institution: KAIST
         location: Daejeon, South Korea
-        url: https://www.kaist.ac.kr/
-        area: TODO
-        degree: TODO
-        start_date: TODO
+        url: https://gsds.kaist.ac.kr/
+        area: Data Science
+        degree: M.S.
+        start_date: 2025-02
         end_date: present
+      - institution: Korea University
+        location: Seoul, South Korea
+        url: https://www.korea.ac.kr/
+        area: Statistics
+        degree: B.S.
+        start_date: 2018-02
+        end_date: 2025-02
